@@ -73,3 +73,14 @@ To get a list of files on the server
 ```bash
 ** store  **
 ```
+
+To run maple(map) command
+```bash
+** maple <exec_filename> <number_of_maple> <sdfs_intermediate_file_prefix> <input_filename> **
+```
+
+To run juice(reduce) command
+To get a list of files on the server
+```bash
+** juice <exec_filename> <number_of_juice> <sdfs_intermediate_file_prefix> <output_filename> <delete_intermediate_file_or_not> <method_of_dividing_task(hash or not)> **
+```
