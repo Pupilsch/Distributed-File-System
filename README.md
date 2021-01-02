@@ -9,6 +9,10 @@ Build and deploy with
 **Make all**
 ```
 
+## Warning
+
+Wirte your own makefile to deploy. The original content in makefile is only supported during the course.
+
 ## Usage
 
 To run on local host:
