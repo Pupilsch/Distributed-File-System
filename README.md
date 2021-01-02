@@ -1,5 +1,8 @@
-# mp2
+# Introduction
 Implementation of a distributed file system. We use UDP to detect failures and TCP to execute the file commands.
+
+## Contributor
+Chunhao Shen, Siyu Ye, Xiya Fan, Hange Liu
 
 ## Installation
 
