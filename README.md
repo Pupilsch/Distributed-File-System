@@ -84,3 +84,4 @@ To get a list of files on the server
 ```bash
 ** juice <exec_filename> <number_of_juice> <sdfs_intermediate_file_prefix> <output_filename> <delete_intermediate_file_or_not> <method_of_dividing_task(hash or not)> **
 ```
+See example map_reduce command in "command_backup". See example executable file and source code file in "/mj_exe"
